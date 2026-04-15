@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bilgisayar_M\u00FChendisli\u011Fi\\Projescts for University\\3.s\u0131n\u0131f_1\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2748179-2359-4292-BA00-2BEC4852CB19}|Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu.csproj|d:\\bilgisayar_m\u00FChendisli\u011Fi\\projescts for university\\3.s\u0131n\u0131f_1\\di\u015F_klini\u011Fi_otomasyonu\\di\u015F_klini\u011Fi_otomasyonu\\di\u015F_klini\u011Fi_otomasyonu\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2748179-2359-4292-BA00-2BEC4852CB19}|Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu.csproj|solutionrelative:di\u015F_klini\u011Fi_otomasyonu\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2748179-2359-4292-BA00-2BEC4852CB19}|Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu.csproj|D:\\Bilgisayar_M\u00FChendisli\u011Fi\\Projescts for University\\3.s\u0131n\u0131f_1\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\di\u015F_klini\u011Fi_otomasyonu\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2748179-2359-4292-BA00-2BEC4852CB19}|Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu.csproj|solutionrelative:di\u015F_klini\u011Fi_otomasyonu\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2748179-2359-4292-BA00-2BEC4852CB19}|Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu.csproj|D:\\Bilgisayar_M\u00FChendisli\u011Fi\\Projescts for University\\3.s\u0131n\u0131f_1\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\di\u015F_klini\u011Fi_otomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2748179-2359-4292-BA00-2BEC4852CB19}|Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu.csproj|solutionrelative:di\u015F_klini\u011Fi_otomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2748179-2359-4292-BA00-2BEC4852CB19}|Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu.csproj|D:\\Bilgisayar_M\u00FChendisli\u011Fi\\Projescts for University\\3.s\u0131n\u0131f_1\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\di\u015F_klini\u011Fi_otomasyonu\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2748179-2359-4292-BA00-2BEC4852CB19}|Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu.csproj|solutionrelative:di\u015F_klini\u011Fi_otomasyonu\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2748179-2359-4292-BA00-2BEC4852CB19}|Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu.csproj|D:\\Bilgisayar_M\u00FChendisli\u011Fi\\Projescts for University\\3.s\u0131n\u0131f_1\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\di\u015F_klini\u011Fi_otomasyonu\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2748179-2359-4292-BA00-2BEC4852CB19}|Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu.csproj|solutionrelative:di\u015F_klini\u011Fi_otomasyonu\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2748179-2359-4292-BA00-2BEC4852CB19}|Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu.csproj|D:\\Bilgisayar_M\u00FChendisli\u011Fi\\Projescts for University\\3.s\u0131n\u0131f_1\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\di\u015F_klini\u011Fi_otomasyonu\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2748179-2359-4292-BA00-2BEC4852CB19}|Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu.csproj|solutionrelative:di\u015F_klini\u011Fi_otomasyonu\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2748179-2359-4292-BA00-2BEC4852CB19}|Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu.csproj|D:\\Bilgisayar_M\u00FChendisli\u011Fi\\Projescts for University\\3.s\u0131n\u0131f_1\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\di\u015F_klini\u011Fi_otomasyonu\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D2748179-2359-4292-BA00-2BEC4852CB19}|Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu.csproj|solutionrelative:di\u015F_klini\u011Fi_otomasyonu\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnectionString.cs",
+              "DocumentMoniker": "D:\\Bilgisayar_M\u00FChendisli\u011Fi\\Projescts for University\\3.s\u0131n\u0131f_1\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\ConnectionString.cs",
+              "RelativeDocumentMoniker": "Di\u015F_Klini\u011Fi_Otomasyonu\\ConnectionString.cs",
+              "ToolTip": "D:\\Bilgisayar_M\u00FChendisli\u011Fi\\Projescts for University\\3.s\u0131n\u0131f_1\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\ConnectionString.cs",
+              "RelativeToolTip": "Di\u015F_Klini\u011Fi_Otomasyonu\\ConnectionString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T14:31:08.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hasta.cs",
+              "DocumentMoniker": "D:\\Bilgisayar_M\u00FChendisli\u011Fi\\Projescts for University\\3.s\u0131n\u0131f_1\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\Hasta.cs",
+              "RelativeDocumentMoniker": "Di\u015F_Klini\u011Fi_Otomasyonu\\Hasta.cs",
+              "ToolTip": "D:\\Bilgisayar_M\u00FChendisli\u011Fi\\Projescts for University\\3.s\u0131n\u0131f_1\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\Hasta.cs",
+              "RelativeToolTip": "Di\u015F_Klini\u011Fi_Otomasyonu\\Hasta.cs",
+              "ViewState": "AgIAADMAAABAAwAAAAAowEcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T14:53:23.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\Bilgisayar_M\u00FChendisli\u011Fi\\Projescts for University\\3.s\u0131n\u0131f_1\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\Form1.resx",
+              "RelativeDocumentMoniker": "Di\u015F_Klini\u011Fi_Otomasyonu\\Form1.resx",
+              "ToolTip": "D:\\Bilgisayar_M\u00FChendisli\u011Fi\\Projescts for University\\3.s\u0131n\u0131f_1\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\Form1.resx",
+              "RelativeToolTip": "Di\u015F_Klini\u011Fi_Otomasyonu\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-30T14:31:08.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Bilgisayar_M\u00FChendisli\u011Fi\\Projescts for University\\3.s\u0131n\u0131f_1\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Di\u015F_Klini\u011Fi_Otomasyonu\\Form1.Designer.cs",
+              "ToolTip": "D:\\Bilgisayar_M\u00FChendisli\u011Fi\\Projescts for University\\3.s\u0131n\u0131f_1\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\Form1.Designer.cs",
+              "RelativeToolTip": "Di\u015F_Klini\u011Fi_Otomasyonu\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T14:31:08.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Bilgisayar_M\u00FChendisli\u011Fi\\Projescts for University\\3.s\u0131n\u0131f_1\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\Form1.cs",
+              "RelativeDocumentMoniker": "Di\u015F_Klini\u011Fi_Otomasyonu\\Form1.cs",
+              "ToolTip": "D:\\Bilgisayar_M\u00FChendisli\u011Fi\\Projescts for University\\3.s\u0131n\u0131f_1\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\Form1.cs [Design]",
+              "RelativeToolTip": "Di\u015F_Klini\u011Fi_Otomasyonu\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T14:31:08.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hasta.cs [Design]",
+              "DocumentMoniker": "D:\\Bilgisayar_M\u00FChendisli\u011Fi\\Projescts for University\\3.s\u0131n\u0131f_1\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\Hasta.cs",
+              "RelativeDocumentMoniker": "Di\u015F_Klini\u011Fi_Otomasyonu\\Hasta.cs",
+              "ToolTip": "D:\\Bilgisayar_M\u00FChendisli\u011Fi\\Projescts for University\\3.s\u0131n\u0131f_1\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\Hasta.cs [Design]",
+              "RelativeToolTip": "Di\u015F_Klini\u011Fi_Otomasyonu\\Hasta.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T14:53:20.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Anasayfa.cs [Design]",
+              "DocumentMoniker": "D:\\Bilgisayar_M\u00FChendisli\u011Fi\\Projescts for University\\3.s\u0131n\u0131f_1\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\Anasayfa.cs",
+              "RelativeDocumentMoniker": "Di\u015F_Klini\u011Fi_Otomasyonu\\Anasayfa.cs",
+              "ToolTip": "D:\\Bilgisayar_M\u00FChendisli\u011Fi\\Projescts for University\\3.s\u0131n\u0131f_1\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\Di\u015F_Klini\u011Fi_Otomasyonu\\Anasayfa.cs [Design]",
+              "RelativeToolTip": "Di\u015F_Klini\u011Fi_Otomasyonu\\Anasayfa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T14:53:16.272Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
